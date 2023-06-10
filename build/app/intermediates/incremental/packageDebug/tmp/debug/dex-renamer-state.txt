@@ -1,0 +1,4 @@
+#Fri Jun 09 23:07:42 WEST 2023
+base.0=C\:\\Users\\ASBIKA\\Desktop\\FlutterApps\\ASSISTANT_INTELLIGENT_PROJECT\\Assistant_Intelligent\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
